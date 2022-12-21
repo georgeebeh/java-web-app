@@ -12,7 +12,8 @@
 <h1 align="center">Welcome to Insight Catalyst International, USA Office.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions and serving over 5 billion users.
 	We also provide Training for DevOps with Linux and Cloud Engineers for best performance. Our best is yet to come</h1>
-<h3 align="left"> It's amazing how our training transforms you from an IT novice to a super confident and competent IT Engineer<h3>	
+<h3 align="left"> It's amazing how our training transforms you from an IT novice to a super confident and competent IT Engineer.<h3>
+<h3 align="left"> We have received glowing feedback and countless testimonials from our graduates!<h3>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
